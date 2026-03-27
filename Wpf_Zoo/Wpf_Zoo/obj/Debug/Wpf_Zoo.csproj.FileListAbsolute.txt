@@ -1,0 +1,15 @@
+C:\Users\panag\Documents\GitHub\.net\Wpf_Zoo\Wpf_Zoo\bin\Debug\Wpf_Zoo.exe.config
+C:\Users\panag\Documents\GitHub\.net\Wpf_Zoo\Wpf_Zoo\bin\Debug\Wpf_Zoo.exe
+C:\Users\panag\Documents\GitHub\.net\Wpf_Zoo\Wpf_Zoo\bin\Debug\Wpf_Zoo.pdb
+C:\Users\panag\Documents\GitHub\.net\Wpf_Zoo\Wpf_Zoo\obj\Debug\Wpf_Zoo.csproj.AssemblyReference.cache
+C:\Users\panag\Documents\GitHub\.net\Wpf_Zoo\Wpf_Zoo\obj\Debug\MainWindow.g.cs
+C:\Users\panag\Documents\GitHub\.net\Wpf_Zoo\Wpf_Zoo\obj\Debug\App.g.cs
+C:\Users\panag\Documents\GitHub\.net\Wpf_Zoo\Wpf_Zoo\obj\Debug\Wpf_Zoo_MarkupCompile.cache
+C:\Users\panag\Documents\GitHub\.net\Wpf_Zoo\Wpf_Zoo\obj\Debug\Wpf_Zoo_MarkupCompile.lref
+C:\Users\panag\Documents\GitHub\.net\Wpf_Zoo\Wpf_Zoo\obj\Debug\MainWindow.baml
+C:\Users\panag\Documents\GitHub\.net\Wpf_Zoo\Wpf_Zoo\obj\Debug\Wpf_Zoo.g.resources
+C:\Users\panag\Documents\GitHub\.net\Wpf_Zoo\Wpf_Zoo\obj\Debug\Wpf_Zoo.Properties.Resources.resources
+C:\Users\panag\Documents\GitHub\.net\Wpf_Zoo\Wpf_Zoo\obj\Debug\Wpf_Zoo.csproj.GenerateResource.cache
+C:\Users\panag\Documents\GitHub\.net\Wpf_Zoo\Wpf_Zoo\obj\Debug\Wpf_Zoo.csproj.CoreCompileInputs.cache
+C:\Users\panag\Documents\GitHub\.net\Wpf_Zoo\Wpf_Zoo\obj\Debug\Wpf_Zoo.exe
+C:\Users\panag\Documents\GitHub\.net\Wpf_Zoo\Wpf_Zoo\obj\Debug\Wpf_Zoo.pdb

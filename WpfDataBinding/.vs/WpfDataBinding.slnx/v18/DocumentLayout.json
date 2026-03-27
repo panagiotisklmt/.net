@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfDataBinding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F983E3D7-E8A5-40B3-816C-6B179F7D9459}|WpfDataBinding\\WpfDataBinding.csproj|c:\\users\\panag\\documents\\github\\.net\\wpfdatabinding\\wpfdatabinding\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F983E3D7-E8A5-40B3-816C-6B179F7D9459}|WpfDataBinding\\WpfDataBinding.csproj|solutionrelative:wpfdatabinding\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F983E3D7-E8A5-40B3-816C-6B179F7D9459}|WpfDataBinding\\WpfDataBinding.csproj|c:\\users\\panag\\documents\\github\\.net\\wpfdatabinding\\wpfdatabinding\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F983E3D7-E8A5-40B3-816C-6B179F7D9459}|WpfDataBinding\\WpfDataBinding.csproj|solutionrelative:wpfdatabinding\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F983E3D7-E8A5-40B3-816C-6B179F7D9459}|WpfDataBinding\\WpfDataBinding.csproj|c:\\users\\panag\\documents\\github\\.net\\wpfdatabinding\\wpfdatabinding\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F983E3D7-E8A5-40B3-816C-6B179F7D9459}|WpfDataBinding\\WpfDataBinding.csproj|solutionrelative:wpfdatabinding\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfDataBinding\\WpfDataBinding\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfDataBinding\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfDataBinding\\WpfDataBinding\\MainWindow.xaml",
+              "RelativeToolTip": "WpfDataBinding\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-11T16:05:16.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfDataBinding\\WpfDataBinding\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfDataBinding\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfDataBinding\\WpfDataBinding\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfDataBinding\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:05:16.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfDataBinding\\WpfDataBinding\\Data\\Person.cs",
+              "RelativeDocumentMoniker": "WpfDataBinding\\Data\\Person.cs",
+              "ToolTip": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfDataBinding\\WpfDataBinding\\Data\\Person.cs",
+              "RelativeToolTip": "WpfDataBinding\\Data\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:11:10.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

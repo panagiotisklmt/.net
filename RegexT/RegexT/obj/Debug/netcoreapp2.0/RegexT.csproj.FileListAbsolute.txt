@@ -1,0 +1,11 @@
+C:\Users\Denis Panjuta\source\repos\RegexT\RegexT\bin\Debug\netcoreapp2.0\RegexT.deps.json
+C:\Users\Denis Panjuta\source\repos\RegexT\RegexT\bin\Debug\netcoreapp2.0\RegexT.runtimeconfig.json
+C:\Users\Denis Panjuta\source\repos\RegexT\RegexT\bin\Debug\netcoreapp2.0\RegexT.runtimeconfig.dev.json
+C:\Users\Denis Panjuta\source\repos\RegexT\RegexT\bin\Debug\netcoreapp2.0\RegexT.dll
+C:\Users\Denis Panjuta\source\repos\RegexT\RegexT\bin\Debug\netcoreapp2.0\RegexT.pdb
+C:\Users\Denis Panjuta\source\repos\RegexT\RegexT\obj\Debug\netcoreapp2.0\RegexT.csprojResolveAssemblyReference.cache
+C:\Users\Denis Panjuta\source\repos\RegexT\RegexT\obj\Debug\netcoreapp2.0\RegexT.csproj.CoreCompileInputs.cache
+C:\Users\Denis Panjuta\source\repos\RegexT\RegexT\obj\Debug\netcoreapp2.0\RegexT.AssemblyInfoInputs.cache
+C:\Users\Denis Panjuta\source\repos\RegexT\RegexT\obj\Debug\netcoreapp2.0\RegexT.AssemblyInfo.cs
+C:\Users\Denis Panjuta\source\repos\RegexT\RegexT\obj\Debug\netcoreapp2.0\RegexT.dll
+C:\Users\Denis Panjuta\source\repos\RegexT\RegexT\obj\Debug\netcoreapp2.0\RegexT.pdb

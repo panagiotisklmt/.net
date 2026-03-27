@@ -1,0 +1,14 @@
+C:\Users\panag\Documents\GitHub\.net\Inheritance\Inheritance\bin\Debug\net10.0\Inheritance.exe
+C:\Users\panag\Documents\GitHub\.net\Inheritance\Inheritance\bin\Debug\net10.0\Inheritance.deps.json
+C:\Users\panag\Documents\GitHub\.net\Inheritance\Inheritance\bin\Debug\net10.0\Inheritance.runtimeconfig.json
+C:\Users\panag\Documents\GitHub\.net\Inheritance\Inheritance\bin\Debug\net10.0\Inheritance.dll
+C:\Users\panag\Documents\GitHub\.net\Inheritance\Inheritance\bin\Debug\net10.0\Inheritance.pdb
+C:\Users\panag\Documents\GitHub\.net\Inheritance\Inheritance\obj\Debug\net10.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panag\Documents\GitHub\.net\Inheritance\Inheritance\obj\Debug\net10.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\panag\Documents\GitHub\.net\Inheritance\Inheritance\obj\Debug\net10.0\Inheritance.AssemblyInfo.cs
+C:\Users\panag\Documents\GitHub\.net\Inheritance\Inheritance\obj\Debug\net10.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\panag\Documents\GitHub\.net\Inheritance\Inheritance\obj\Debug\net10.0\Inheritance.dll
+C:\Users\panag\Documents\GitHub\.net\Inheritance\Inheritance\obj\Debug\net10.0\refint\Inheritance.dll
+C:\Users\panag\Documents\GitHub\.net\Inheritance\Inheritance\obj\Debug\net10.0\Inheritance.pdb
+C:\Users\panag\Documents\GitHub\.net\Inheritance\Inheritance\obj\Debug\net10.0\Inheritance.genruntimeconfig.cache
+C:\Users\panag\Documents\GitHub\.net\Inheritance\Inheritance\obj\Debug\net10.0\ref\Inheritance.dll

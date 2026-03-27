@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfContentControllers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89D3498C-563B-416C-B72D-E867B1D9D2EE}|WpfContentControllers\\WpfContentControllers.csproj|c:\\users\\panag\\documents\\github\\.net\\wpfcontentcontrollers\\wpfcontentcontrollers\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D3498C-563B-416C-B72D-E867B1D9D2EE}|WpfContentControllers\\WpfContentControllers.csproj|solutionrelative:wpfcontentcontrollers\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D3498C-563B-416C-B72D-E867B1D9D2EE}|WpfContentControllers\\WpfContentControllers.csproj|c:\\users\\panag\\documents\\github\\.net\\wpfcontentcontrollers\\wpfcontentcontrollers\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89D3498C-563B-416C-B72D-E867B1D9D2EE}|WpfContentControllers\\WpfContentControllers.csproj|solutionrelative:wpfcontentcontrollers\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D3498C-563B-416C-B72D-E867B1D9D2EE}|WpfContentControllers\\WpfContentControllers.csproj|c:\\users\\panag\\documents\\github\\.net\\wpfcontentcontrollers\\wpfcontentcontrollers\\invoiceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89D3498C-563B-416C-B72D-E867B1D9D2EE}|WpfContentControllers\\WpfContentControllers.csproj|solutionrelative:wpfcontentcontrollers\\invoiceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D3498C-563B-416C-B72D-E867B1D9D2EE}|WpfContentControllers\\WpfContentControllers.csproj|c:\\users\\panag\\documents\\github\\.net\\wpfcontentcontrollers\\wpfcontentcontrollers\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89D3498C-563B-416C-B72D-E867B1D9D2EE}|WpfContentControllers\\WpfContentControllers.csproj|solutionrelative:wpfcontentcontrollers\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D3498C-563B-416C-B72D-E867B1D9D2EE}|WpfContentControllers\\WpfContentControllers.csproj|c:\\users\\panag\\documents\\github\\.net\\wpfcontentcontrollers\\wpfcontentcontrollers\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D3498C-563B-416C-B72D-E867B1D9D2EE}|WpfContentControllers\\WpfContentControllers.csproj|solutionrelative:wpfcontentcontrollers\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceView.xaml",
+              "DocumentMoniker": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfContentControllers\\WpfContentControllers\\InvoiceView.xaml",
+              "RelativeDocumentMoniker": "WpfContentControllers\\InvoiceView.xaml",
+              "ToolTip": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfContentControllers\\WpfContentControllers\\InvoiceView.xaml*",
+              "RelativeToolTip": "WpfContentControllers\\InvoiceView.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-11T15:52:48.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfContentControllers\\WpfContentControllers\\LoginView.xaml",
+              "RelativeDocumentMoniker": "WpfContentControllers\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfContentControllers\\WpfContentControllers\\LoginView.xaml*",
+              "RelativeToolTip": "WpfContentControllers\\LoginView.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-11T14:49:37.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfContentControllers\\WpfContentControllers\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "WpfContentControllers\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfContentControllers\\WpfContentControllers\\LoginView.xaml.cs*",
+              "RelativeToolTip": "WpfContentControllers\\LoginView.xaml.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:03:13.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfContentControllers\\WpfContentControllers\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfContentControllers\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfContentControllers\\WpfContentControllers\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfContentControllers\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:44:54.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfContentControllers\\WpfContentControllers\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfContentControllers\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WpfContentControllers\\WpfContentControllers\\MainWindow.xaml",
+              "RelativeToolTip": "WpfContentControllers\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-11T14:44:55.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\panag\Documents\GitHub\.net\EventsApp\EventsApp\bin\Debug\net10.0\EventsApp.exe
+C:\Users\panag\Documents\GitHub\.net\EventsApp\EventsApp\bin\Debug\net10.0\EventsApp.deps.json
+C:\Users\panag\Documents\GitHub\.net\EventsApp\EventsApp\bin\Debug\net10.0\EventsApp.runtimeconfig.json
+C:\Users\panag\Documents\GitHub\.net\EventsApp\EventsApp\bin\Debug\net10.0\EventsApp.dll
+C:\Users\panag\Documents\GitHub\.net\EventsApp\EventsApp\bin\Debug\net10.0\EventsApp.pdb
+C:\Users\panag\Documents\GitHub\.net\EventsApp\EventsApp\obj\Debug\net10.0\EventsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panag\Documents\GitHub\.net\EventsApp\EventsApp\obj\Debug\net10.0\EventsApp.AssemblyInfoInputs.cache
+C:\Users\panag\Documents\GitHub\.net\EventsApp\EventsApp\obj\Debug\net10.0\EventsApp.AssemblyInfo.cs
+C:\Users\panag\Documents\GitHub\.net\EventsApp\EventsApp\obj\Debug\net10.0\EventsApp.csproj.CoreCompileInputs.cache
+C:\Users\panag\Documents\GitHub\.net\EventsApp\EventsApp\obj\Debug\net10.0\EventsApp.dll
+C:\Users\panag\Documents\GitHub\.net\EventsApp\EventsApp\obj\Debug\net10.0\refint\EventsApp.dll
+C:\Users\panag\Documents\GitHub\.net\EventsApp\EventsApp\obj\Debug\net10.0\EventsApp.pdb
+C:\Users\panag\Documents\GitHub\.net\EventsApp\EventsApp\obj\Debug\net10.0\EventsApp.genruntimeconfig.cache
+C:\Users\panag\Documents\GitHub\.net\EventsApp\EventsApp\obj\Debug\net10.0\ref\EventsApp.dll

@@ -1,0 +1,15 @@
+C:\Users\panag\Documents\GitHub\.net\LinqToSql\LinqToSql\bin\Debug\LinqToSql.exe.config
+C:\Users\panag\Documents\GitHub\.net\LinqToSql\LinqToSql\bin\Debug\LinqToSql.exe
+C:\Users\panag\Documents\GitHub\.net\LinqToSql\LinqToSql\bin\Debug\LinqToSql.pdb
+C:\Users\panag\Documents\GitHub\.net\LinqToSql\LinqToSql\obj\Debug\LinqToSql.csproj.AssemblyReference.cache
+C:\Users\panag\Documents\GitHub\.net\LinqToSql\LinqToSql\obj\Debug\MainWindow.g.cs
+C:\Users\panag\Documents\GitHub\.net\LinqToSql\LinqToSql\obj\Debug\App.g.cs
+C:\Users\panag\Documents\GitHub\.net\LinqToSql\LinqToSql\obj\Debug\LinqToSql_MarkupCompile.cache
+C:\Users\panag\Documents\GitHub\.net\LinqToSql\LinqToSql\obj\Debug\LinqToSql_MarkupCompile.lref
+C:\Users\panag\Documents\GitHub\.net\LinqToSql\LinqToSql\obj\Debug\MainWindow.baml
+C:\Users\panag\Documents\GitHub\.net\LinqToSql\LinqToSql\obj\Debug\LinqToSql.g.resources
+C:\Users\panag\Documents\GitHub\.net\LinqToSql\LinqToSql\obj\Debug\LinqToSql.Properties.Resources.resources
+C:\Users\panag\Documents\GitHub\.net\LinqToSql\LinqToSql\obj\Debug\LinqToSql.csproj.GenerateResource.cache
+C:\Users\panag\Documents\GitHub\.net\LinqToSql\LinqToSql\obj\Debug\LinqToSql.csproj.CoreCompileInputs.cache
+C:\Users\panag\Documents\GitHub\.net\LinqToSql\LinqToSql\obj\Debug\LinqToSql.exe
+C:\Users\panag\Documents\GitHub\.net\LinqToSql\LinqToSql\obj\Debug\LinqToSql.pdb
