@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\panag\\Documents\\GitHub\\.net\\QuizProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A738745-F7D9-4866-BDA7-D0C4A94C959D}|QuizProject\\QuizProject.csproj|c:\\users\\panag\\documents\\github\\.net\\quizproject\\quizproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A738745-F7D9-4866-BDA7-D0C4A94C959D}|QuizProject\\QuizProject.csproj|solutionrelative:quizproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|c:\\users\\panag\\documents\\github\\.net\\quizproject\\quizproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|solutionrelative:quizproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A738745-F7D9-4866-BDA7-D0C4A94C959D}|QuizProject\\QuizProject.csproj|c:\\users\\panag\\documents\\github\\.net\\quizproject\\quizproject\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A738745-F7D9-4866-BDA7-D0C4A94C959D}|QuizProject\\QuizProject.csproj|solutionrelative:quizproject\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|c:\\users\\panag\\documents\\github\\.net\\quizproject\\quizproject\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|solutionrelative:quizproject\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A738745-F7D9-4866-BDA7-D0C4A94C959D}|QuizProject\\QuizProject.csproj|c:\\users\\panag\\documents\\github\\.net\\quizproject\\quizproject\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A738745-F7D9-4866-BDA7-D0C4A94C959D}|QuizProject\\QuizProject.csproj|solutionrelative:quizproject\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|c:\\users\\panag\\documents\\github\\.net\\quizproject\\quizproject\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|solutionrelative:quizproject\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Quiz.cs",
-              "DocumentMoniker": "C:\\Users\\panag\\Documents\\GitHub\\.net\\QuizProject\\QuizProject\\Quiz.cs",
-              "RelativeDocumentMoniker": "QuizProject\\Quiz.cs",
-              "ToolTip": "C:\\Users\\panag\\Documents\\GitHub\\.net\\QuizProject\\QuizProject\\Quiz.cs",
-              "RelativeToolTip": "QuizProject\\Quiz.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T14:59:00.99Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Question.cs",
-              "DocumentMoniker": "C:\\Users\\panag\\Documents\\GitHub\\.net\\QuizProject\\QuizProject\\Question.cs",
-              "RelativeDocumentMoniker": "QuizProject\\Question.cs",
-              "ToolTip": "C:\\Users\\panag\\Documents\\GitHub\\.net\\QuizProject\\QuizProject\\Question.cs",
-              "RelativeToolTip": "QuizProject\\Question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T14:59:53.464Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -59,10 +36,34 @@
               "RelativeDocumentMoniker": "QuizProject\\Program.cs",
               "ToolTip": "C:\\Users\\panag\\Documents\\GitHub\\.net\\QuizProject\\QuizProject\\Program.cs",
               "RelativeToolTip": "QuizProject\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T14:56:49.798Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\panag\\Documents\\GitHub\\.net\\QuizProject\\QuizProject\\Quiz.cs",
+              "RelativeDocumentMoniker": "QuizProject\\Quiz.cs",
+              "ToolTip": "C:\\Users\\panag\\Documents\\GitHub\\.net\\QuizProject\\QuizProject\\Quiz.cs",
+              "RelativeToolTip": "QuizProject\\Quiz.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T14:59:00.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\panag\\Documents\\GitHub\\.net\\QuizProject\\QuizProject\\Question.cs",
+              "RelativeDocumentMoniker": "QuizProject\\Question.cs",
+              "ToolTip": "C:\\Users\\panag\\Documents\\GitHub\\.net\\QuizProject\\QuizProject\\Question.cs",
+              "RelativeToolTip": "QuizProject\\Question.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T14:59:53.464Z"
             }
           ]
         }

@@ -70,3 +70,5 @@ C:\Users\panag\Documents\GitHub\.net\CurrencyConverter_Static\CurrencyConverter_
 C:\Users\panag\Documents\GitHub\.net\CurrencyConverter_Static\CurrencyConverter_Static\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
 C:\Users\panag\Documents\GitHub\.net\CurrencyConverter_Static\CurrencyConverter_Static\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.dll
 C:\Users\panag\Documents\GitHub\.net\CurrencyConverter_Static\CurrencyConverter_Static\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\panag\Documents\GitHub\.net\CurrencyConverter_Static\CurrencyConverter_Static\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+C:\Users\panag\Documents\GitHub\.net\CurrencyConverter_Static\CurrencyConverter_Static\obj\Debug\net10.0-windows\CurrencyConverter_Static.sourcelink.json

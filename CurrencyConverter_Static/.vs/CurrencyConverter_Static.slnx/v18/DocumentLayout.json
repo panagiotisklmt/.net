@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "CurrencyConverter_Static\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\panag\\Documents\\GitHub\\.net\\CurrencyConverter_Static\\CurrencyConverter_Static\\MainWindow.xaml.cs",
               "RelativeToolTip": "CurrencyConverter_Static\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAIsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T17:09:11.581Z",
               "EditorCaption": ""
@@ -49,9 +49,10 @@
               "RelativeDocumentMoniker": "CurrencyConverter_Static\\CurrencyConverter_Static.csproj",
               "ToolTip": "C:\\Users\\panag\\Documents\\GitHub\\.net\\CurrencyConverter_Static\\CurrencyConverter_Static\\CurrencyConverter_Static.csproj",
               "RelativeToolTip": "CurrencyConverter_Static\\CurrencyConverter_Static.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-16T17:11:17.449Z"
+              "WhenOpened": "2026-03-16T17:11:17.449Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -63,7 +64,8 @@
               "RelativeToolTip": "CurrencyConverter_Static\\AppSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-17T11:31:17.671Z"
+              "WhenOpened": "2026-03-17T11:31:17.671Z",
+              "EditorCaption": ""
             }
           ]
         }

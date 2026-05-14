@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WeatherApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A26CC0C-524E-4922-A499-8B837A563424}|WeatherApp\\WeatherApp.csproj|c:\\users\\panag\\documents\\github\\.net\\weatherapp\\weatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A26CC0C-524E-4922-A499-8B837A563424}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54AD5067-2A56-FC78-083A-2309D2D8D907}|WeatherApp\\WeatherApp.csproj|c:\\users\\panag\\documents\\github\\.net\\weatherapp\\weatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AD5067-2A56-FC78-083A-2309D2D8D907}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "WeatherApp\\Program.cs",
               "ToolTip": "C:\\Users\\panag\\Documents\\GitHub\\.net\\WeatherApp\\WeatherApp\\Program.cs",
               "RelativeToolTip": "WeatherApp\\Program.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAQwDwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAzwDwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T11:46:11.196Z",
               "EditorCaption": ""

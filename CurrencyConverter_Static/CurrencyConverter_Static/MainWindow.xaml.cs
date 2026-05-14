@@ -1,12 +1,16 @@
-﻿using Microsoft.Data.SqlClient;
+﻿using Azure;
+using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
 using System.Configuration;
 using System.Data;
 using System.IO;
+using System.Net.Http;
+using System.Text.Json.Serialization;
 using System.Text.RegularExpressions;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
+using Newtonsoft.Json;
 
 namespace CurrencyConverter_Static
 {
@@ -15,6 +19,37 @@ namespace CurrencyConverter_Static
     /// </summary>
     public partial class MainWindow : Window
     {
+        Root val = new Root();
+
+        public class Root
+        {
+            public Rate rates {  get; set; }
+            public long timestamp;
+            public string license;
+        }
+
+        public class Rate
+        {
+            public double INR {  get; set; }
+
+            public double JPY { get; set; }
+
+            public double USD { get; set; }
+
+            public double NZD { get; set; }
+
+            public double EUR { get; set; }
+
+            public double CAD { get; set; }
+
+            public double ISK { get; set; }
+
+            public double PHP { get; set; }
+
+            public double DKK { get; set; }
+
+            public double CZK { get; set; }
+        }
 
         string connectionString = "Server=.\\SQLEXPRESS;Database=CurrencyConverter;Trusted_Connection=True;TrustServerCertificate=True;";
         SqlConnection con = new SqlConnection();
@@ -30,6 +65,39 @@ namespace CurrencyConverter_Static
             InitializeComponent();
             BindCurrency();
             GetData();
+        }
+
+        private async void GetValue()
+        {
+            val = await GetData<Root>("https://openexchangerates.org/api/latest.json?app_id=25879846f14f478c9e9ced900fe29619");
+            BindCurrency();
+        }
+
+        public static async Task<Root> GetData<T>(string url)
+        {
+            var myRoot = new Root();
+            try
+            {
+                using (var client = new HttpClient())
+                {
+                    client.Timeout = TimeSpan.FromMinutes(1);
+                    HttpResponseMessage response = await client.GetAsync(url);
+                    if (response.StatusCode == System.Net.HttpStatusCode.OK)
+                    {
+                        var ResponceString = await response.Content.ReadAsStringAsync();
+                        var ResponceObject = JsonConvert.DeserializeObject<Root>(ResponceString);
+
+                        MessageBox.Show("TimeStamp: " + ResponceObject.timestamp, "Information", MessageBoxButton.OK, MessageBoxImage.Information);
+                        return ResponceObject;
+                    }
+                    return myRoot;
+
+                }
+            }
+            catch
+            {
+                return myRoot;
+            }
         }
 
         public void mycon()
